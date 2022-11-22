@@ -43,11 +43,11 @@
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  font-size: 23px;
-  background-color: #0f4ebc;
+  font-size: 25px;
+  background-color: #0fbcb3;
 }
 .container .button .btn:hover {
-  background-color: rgb(38, 208, 75);
+  background-color: rgb(208, 38, 58);
   border: 2px solid rgb(26, 25, 25);
 }
 
